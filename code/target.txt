@@ -1,0 +1,2 @@
+QQ;QQ;D:\develop\regedit\ico\tim.ico;D:\programs\tencent\TIM\Bin\TIM.exe
+Wechat;Wechat;D:\develop\regedit\ico\wechat.ico;D:\programs\tencent\WeChat\WeChat.exe
